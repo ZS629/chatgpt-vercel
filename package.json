@@ -1,6 +1,6 @@
 {
   "name": "chatgpt-vercel",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Elegant and Powerful. Powered by OpenAI and Vercel",
   "type": "module",
   "license": "MIT",
@@ -43,6 +43,7 @@
     "markdown-it-kbd": "^2.2.2",
     "solid-js": "^1.7.6",
     "solid-start": "^0.2.26",
+    "solid-transition-group": "^0.2.2",
     "undici": "^5.22.1"
   },
   "devDependencies": {
